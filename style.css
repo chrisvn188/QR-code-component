@@ -80,9 +80,11 @@ main {
 
 .card__text-half h2 {
   color: var(--Dark-blue);
+  line-height: 1.2;
 }
 
 .card__text-half p {
   padding-inline: 1rem;
   color: var(--Grayish-blue);
+  line-height: 1.3;
 }
