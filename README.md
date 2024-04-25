@@ -39,3 +39,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Useful resources
 
 - [A great article from Grace Snow to learn how to plan HTML](https://www.example.com) - This is awesome! I really enjoyed reading it.
+- [Another great article to learn about different techniques to hide an element for accessability purposes](https://www.example.com) - You will learn about different tricks, their pros and cons.
